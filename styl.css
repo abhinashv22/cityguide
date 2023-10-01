@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS</title>
+        <style>
+            body
+            {
+                background-image:url('wp2885522.webp');
+                background-size:1500px;
+            }
+            .name
+            {
+                display:inline-block;
+                font-family:Tahoma;
+                color:white;
+                margin-left:100px;
+                font-size:18px;
+            }
+            .button,.button2,.button3
+            {
+                display:inline-block;
+                color:white;
+                font-family:tahoma;
+                font-size:18px;
+                cursor:pointer;
+            }
+            .button
+            {
+                margin-left:870px;
+                margin-right:20px;
+            }
+            .button2
+            {
+                margin-right:20px;
+            }
+            .bodyhead
+            {
+                color:white;
+                font-family:tahoma;
+                margin-top:180px;
+                font-size:32px;
+                width:500px;
+                font-weight:bold;
+                margin-left:550px;
+                text-align:center;
+                margin-bottom:0px;
+            }
+            hr
+            {
+                width:60px;
+                border:2px solid aqua;
+                margin-top:20px;
+            }
+            .body
+            {
+                color:white;
+                width:600px;
+                text-align:center;
+                margin-left:500px;
+            }
+            button
+            {
+                background-color:aqua;
+                color:white;
+                border:none;
+                padding-left:12px;
+                padding-right:12px;
+                padding-top:10px;
+                padding-bottom:10px;
+                font-weight:bold;
+                border-radius:30px;
+                margin-left:745px;
+                cursor:pointer;
+            }
+        </style>
+    </head>
+    <body>
+       <p class="name">Jithendar Seervi</p>
+       <p class="button">About</p>
+       <p class="button2">photos</p>
+       <p class="button3">Contact</p>
+       <p class="bodyhead">PERSONAL WEBSITE TO SHOW THE WORLD I EXIST</p>
+       <hr>
+       <p class="body">Hi,I'm Jithendar,and I love to have fun when not at school,I love to skateboard,play videogames,and hack into things</p>
+       <button>FIND OUT MORE</button>
+    </body>
+</html>
